@@ -12,10 +12,14 @@ ul li {
     list-style-type: disc;
 }
 p, li{
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 img{
     border-radius: 5px;
     margin-bottom: 10px;
     display: block;
+}
+h1{
+    color:#851A13 !important;
+    font-size: 115% !important;
 }
