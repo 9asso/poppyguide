@@ -1,0 +1,12 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "network" : "fan",
+          "face_banner": "YOUR_PLACEMENT_ID",
+          "face_interstital": "YOUR_PLACEMENT_ID",
+          "face_mrec": "YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd"
+        }
+    ]
+}
